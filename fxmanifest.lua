@@ -22,10 +22,10 @@ files({
     'html/index.html',
     'html/index.js',
     'html/styl.css',
-    'html/Assets/Vector-1.svg',
-    'html/Assets/Vector.svg',
     'html/Assets/card.svg',
+    'html/Assets/fale.svg',
     'html/Assets/logo.svg',
-    'html/Assets/card.svg',
+    'html/Assets/wplac.svg',
+    'html/Assets/wyplac.svg',
     'html/Assets/back.svg',
 })
